@@ -17,7 +17,7 @@ width: 60%;
 
 .cabecalho-lista-item{
 display: inline-block;
-margin: 0 16px;
+margin: 0 10px;
 font-size: 24px;
 }
 
@@ -31,11 +31,12 @@ font-size: 24px;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px 0;
+    padding: 30px 0;
 }
 
 .John-Deere{
-    width: 35%;
+    width: 40%;
+    justify-content: center;
 }
 
 .titulo{
